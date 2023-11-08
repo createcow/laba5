@@ -1,0 +1,3 @@
+﻿  mycode.cpp
+G:\Мой диск\програмирование\ОИПЗ\лаба5\mycode\mycode\mycode.cpp(53): warning C4715: function: значение возвращается не при всех путях выполнения
+  mycode.vcxproj -> G:\Мой диск\програмирование\ОИПЗ\лаба5\mycode\x64\Debug\mycode.exe
